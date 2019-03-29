@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Belatrix Coding Test</string>
+    <string name="shake_action"> SHAKE ACTION</string>
+    <string name="canvas_compass">CANVAS COMPASS</string>
+    <string name="shaker_sensitivity">Shaker Sensitivity</string>
+    <string name="shake_it">SHAKE IT FOR THE MAGIC!</string>
+
+</resources>
